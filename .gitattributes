@@ -10,11 +10,11 @@ completed_courses_list = ["Biology", "Chemistry", "Calculus", "Spanish 2", "Worl
 credit_hours_list = [3, 3, 3, 3]
 gpa_history_list = [3.2, 3.6, 3.4, 3.7]
 # Contact Information Storage
-emergency_contact_tuple = ("Mom", "Hannah Smith", "704-555-0199")
-home_address_tuple = ("456 Oak Street", "Charlotte", "NC", "28202")
-instagram_info_tuple = ("Instagram", "@jordan_codes", 312)
+emergency_contact_tuple = ("Mom", "Hannah Smith", "896-555-0199")
+home_address_tuple = ("456 Oak Street", "Greenville", "NC", "27834")
+instagram_info_tuple = ("Instagram", "@silver_boy45", 147)
 twitter_info_tuple = ("Twitter", "@jordandev", 127)
-birthday_tuple = ("Birthday", 5, 22, 2006)
+birthday_tuple = ("Birthday", 3, 3, 2005)
 # Interest Tracking
 current_skills_set = {"Python basics", "HTML", "Problem solving", "Time management", "Photography"}
 skills_to_learn_set = {"JavaScript", "Data structures", "Git", "Web design", "Public speaking"}
@@ -41,9 +41,9 @@ course_rooms_dictionary = {
     "HIS 105": "Crosby 210"
 }
 monthly_budget_dictionary = {
-    "Food": 450,
+    "Food": 100,
     "Entertainment": 200,
-    "Books": 125,
+    "Books": 100,
     "Transportation": 100
 }
 study_hours_per_subject_dictionary = {
